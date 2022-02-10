@@ -19,7 +19,7 @@ Students successfully completing the course will
 
 ### Course Outline
 
-- Wed 1/22 Day 1: Machine Learning basics [[Slides]](slides/2020-01-22_day1_ MLBasics.pdf)
+- Wed 1/22 Day 1: Machine Learning basics [[Slides]](slides/2020-01-22_day1_MLBasics.pdf)
     - Machine learning examples
     - Problem formulation
     - Evaluation and hyper-parameter tuning
