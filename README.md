@@ -19,7 +19,7 @@ Students successfully completing the course will
 
 ### Course Outline
 
-- Wed 1/22 Day 1: Machine Learning basics [[Slides]](slides/)
+- Wed 1/22 Day 1: Machine Learning basics [[Slides]](slides/2020-01-22_day1_ MLBasics.pdf)
     - Machine learning examples
     - Problem formulation
     - Evaluation and hyper-parameter tuning
@@ -27,7 +27,7 @@ Students successfully completing the course will
     - Machine Learning with scikit-learn
     - Hands-on material: [[ipynb]](notebooks/ncf_isp2020_mlnlp_day1_student.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suhara/mlnlp-isp2020/blob/main/notebooks/ncf_isp2020_mlnlp_day1_student.ipynb)
 
-- Thu 1/23 Day 2: NLP basics [[Slides]](slides/)
+- Thu 1/23 Day 2: NLP basics [[Slides]](slides/2020-01-23_day2_NLPBasics.pdf)
     - Unsupervised learning and visualization
     - Topic models
     - NLP basics with SpaCy and NLTK
@@ -37,7 +37,7 @@ Students successfully completing the course will
     - Follow-up
         - Commonsense Reasoning (Winograd Schema Challenge)
 
-- Fri 1/24 Day 3: Advanced techniques and applications [[Slides]](slides/)
+- Fri 1/24 Day 3: Advanced techniques and applications [[Slides]](slides/2020-01-24_day3_AdvancedTechniques.pdf)
     - Basic Deep Learning techniques
     - Word embeddings
     - Advanced Deep Learning techniques for NLP
@@ -47,16 +47,17 @@ Students successfully completing the course will
     - Follow-up
         - The Illustrated Transformer – Jay Alammar – Visualizing machine learning one concept at a time
         - Cross-lingual word/sentence embeddings
-            - MUSE by FAIR
-            - LASER by FAIR
-            - Emu (our paper)
+            - [MUSE](https://github.com/facebookresearch/MUSE) by FAIR
+            - [LASER](https://github.com/facebookresearch/LASER) by FAIR
+            - [Emu](https://arxiv.org/abs/1909.06731) (our paper)
+
 
 ### Reading Assignments & Recommendations:
 
 The following online tutorials for students who are not familiar with the Python libraries used in the course. Each day will have a hands-on session that requires those libraries. Please do not expect to have enough time to learn how to use those libraries during the lecture.
 
 - Pandas tutorials:
-    - [10 minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
+    - [10 minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
 - scikit-learn tutorials:
     - ["An introduction to machine learning with scikit-learn"](https://scikit-learn.org/stable/tutorial/index.html)
     - The other tutorials are also recommended
@@ -64,7 +65,7 @@ The following online tutorials for students who are not familiar with the Python
     - [Core tutorials](https://radimrehurek.com/gensim/auto_examples/index.html)
 - spaCy:
     - [spaCy 101: Everything you need to know](https://spacy.io/usage/spacy-101)
-- PyTorch
+- PyTorch:
     - [Deep Learning with PyTorch: A 60 Minutes Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 
 The following list is a good starting point. 
