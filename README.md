@@ -1,4 +1,4 @@
-# MLNLP-ISP2020 Machine Learning and NLP: Advances and Applications
+# Machine Learning and NLP: Advances and Applications
 
 This repository hosts the course materials used for a 3-day seminar "Machine Learning and NLP: Advances and Applications" as part of Independent Study Period 2020 at [New College of Florida](https://www.ncf.edu/).
 
