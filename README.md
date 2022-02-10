@@ -1,6 +1,8 @@
 # MLNLP-ISP2020 Machine Learning and NLP: Advances and Applications
 
-This repository hosts the course materials used for Independent Study Period 3-day seminar Machine Learning and NLP: Advances and Applications" at [New College of Florida](https://www.ncf.edu/)
+This repository hosts the course materials used for a 3-day seminar "Machine Learning and NLP: Advances and Applications" as part of Independent Study Period 2020 at [New College of Florida](https://www.ncf.edu/).
+
+Note that the seminar was held in Jan 2020, and the content may be a little bit oudated (as of Feb 2022). Please also refer to a Fall 2021 full semester course ["CIS6930 Topics in Computing for Data Science"](https://github.com/suhara/cis6930-fall2021), which covers much wider (and a little bit newer) Deep Learning topics.
 
 
 ## Syllabus 
@@ -17,31 +19,31 @@ Students successfully completing the course will
 
 ### Course Outline
 
-- Wed 1/22 Day 1: Machine Learning basics [Slides]
+- Wed 1/22 Day 1: Machine Learning basics [[Slides]](slides/)
     - Machine learning examples
     - Problem formulation
     - Evaluation and hyper-parameter tuning
     - Data Processing basics with pandas
     - Machine Learning with scikit-learn
-    - Hands-on material: [[ipynb]](notebooks/ncf_isp2020_mlnlp_day1_student.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/suhara/mlnlp-isp2020/blob/main/notebooks/ncf_isp2020_mlnlp_day1_student.ipynb)
+    - Hands-on material: [[ipynb]](notebooks/ncf_isp2020_mlnlp_day1_student.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suhara/mlnlp-isp2020/blob/main/notebooks/ncf_isp2020_mlnlp_day1_student.ipynb)
 
-- Thu 1/23 Day 2: NLP basics [Slides]
+- Thu 1/23 Day 2: NLP basics [[Slides]](slides/)
     - Unsupervised learning and visualization
     - Topic models
     - NLP basics with SpaCy and NLTK
     - Understanding NLP pipeline for feature extraction
     - Machine learning for NLP tasks (text classification, sequential tagging)
-    - Hands-on material [[ipynb]](notebooks/ncf_isp2020_mlnlp_day2_student.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/suhara/mlnlp-isp2020/blob/main/notebooks/ncf_isp2020_mlnlp_day2_student.ipynb)
+    - Hands-on material [[ipynb]](notebooks/ncf_isp2020_mlnlp_day2_student.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suhara/mlnlp-isp2020/blob/main/notebooks/ncf_isp2020_mlnlp_day2_student.ipynb)
     - Follow-up
         - Commonsense Reasoning (Winograd Schema Challenge)
 
-- Fri 1/24 Day 3: Advanced techniques and applications [Slides]
+- Fri 1/24 Day 3: Advanced techniques and applications [[Slides]](slides/)
     - Basic Deep Learning techniques
     - Word embeddings
     - Advanced Deep Learning techniques for NLP
     - Problem formulation and applications to (non-)NLP tasks
     - Pre-training models: ELMo and BERT
-    - Hands-on material: [[ipynb]](notebooks/ncf_isp2020_mlnlp_day3_student.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/suhara/mlnlp-isp2020/blob/main/notebooks/ncf_isp2020_mlnlp_day3_student.ipynb)
+    - Hands-on material: [[ipynb]](notebooks/ncf_isp2020_mlnlp_day3_student.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suhara/mlnlp-isp2020/blob/main/notebooks/ncf_isp2020_mlnlp_day3_student.ipynb)
     - Follow-up
         - The Illustrated Transformer – Jay Alammar – Visualizing machine learning one concept at a time
         - Cross-lingual word/sentence embeddings
